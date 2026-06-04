@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Mohsan Iqbal
 
-<!--
-**MohsanCodes/MohsanCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Front-End Web Developer
 
-Here are some ideas to get you started:
+🎓 Software Engineering Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 React & Next.js Developer
+
+🚀 Building responsive and user-friendly web applications
+
+🌱 Currently learning TypeScript and advanced Next.js
+
+## Tech Stack
+
+* HTML
+* CSS
+* JavaScript
+* TypeScript
+* React
+* Next.js
+* Tailwind CSS
+* Git & GitHub
+
+## Current Focus
+
+* Front-End Development
+* React & Next.js
+* Building Portfolio Projects
